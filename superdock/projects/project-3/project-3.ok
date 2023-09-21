@@ -1,0 +1,17 @@
+{
+  "name": "Project 3",
+  "endpoint": "rhodes/cs141-superdock/fa23/project3",
+  "src": [
+    "project-3.ipynb",
+    "potato.py"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
+
