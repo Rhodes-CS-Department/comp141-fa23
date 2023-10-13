@@ -6,7 +6,7 @@
     "tiger_time.py"
   ],
   "tests": {
-      "tests/q*.py": "ok_test"
+      "tests/*.py": "ok_test"
   },
   "protocols": [
       "file_contents",
