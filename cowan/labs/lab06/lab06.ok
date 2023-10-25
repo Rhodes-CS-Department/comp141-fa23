@@ -1,0 +1,15 @@
+{
+  "name": "Lab 6",
+  "endpoint": "rhodes/cs141-cowan/fa23/lab06",
+  "src": [
+    "lab06.ipynb"
+  ],
+  "tests": {
+      
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
