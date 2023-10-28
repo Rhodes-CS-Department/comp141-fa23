@@ -1,0 +1,16 @@
+{
+  "name": "Project 6",
+  "endpoint": "rhodes/cs141-cowan/fa23/project06",
+  "src": [
+    "P6.ipynb",
+    "garden.py"
+  ],
+  "tests": {
+
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
