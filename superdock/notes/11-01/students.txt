@@ -1,0 +1,9 @@
+Frodo,2025,99
+Gandalf,2024,73
+Aragorn,2026,71
+Samwise,2026,88
+Boromir,2024,80
+Peregrin,2027,76
+Meriadoc,2026,62
+Gimli,2026,87
+Legolas,2025,91
