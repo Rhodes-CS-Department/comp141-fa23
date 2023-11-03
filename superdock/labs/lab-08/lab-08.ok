@@ -1,0 +1,16 @@
+{
+  "name": "Lab 7",
+  "endpoint": "rhodes/cs141-superdock/fa23/lab08",
+  "src": [
+    "lab-08.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
+
