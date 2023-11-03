@@ -1,0 +1,20 @@
+Cruel Summer;Taylor Swift;1;25
+Paint The Town Red;Doja Cat;2;12
+Snooze;SZA;3;46
+I Remember Everything;Zach Bryan Featuring Kacey Musgraves;6;9
+Fast Car;Luke Combs;7;31
+Last Night;Morgan Wallen;9;39
+Thinkin' Bout Me;Morgan Wallen;10;34
+IDGAF;Drake Featuring Yeat;4;3
+Monaco;Bad Bunny;5;2
+Fukumean;Gunna;11;19
+Vampire;Olivia Rodrigo;12;17
+Dance The Night;Dua Lipa;13;22
+First Person Shooter;Drake Featuring J. Cole;8;3
+Greedy;Tate McRae;17;6
+Rich Baby Daddy;Drake Featuring Sexyy Red & SZA;16;3
+Flowers;Miley Cyrus;18;41
+Need A Favor;Jelly Roll;-1;30
+Used To Be Young;Miley Cyrus;-1;9
+Barbie World;Nicki Minaj & Ice Spice With Aqua;19;18
+Anti-Hero;Taylor Swift;-1;53
