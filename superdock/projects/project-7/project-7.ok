@@ -1,0 +1,17 @@
+{
+  "name": "Project 7",
+  "endpoint": "rhodes/cs141-superdock/fa23/project7",
+  "src": [
+    "project-7.ipynb",
+    "draw.py"
+  ],
+  "tests": {
+      "tests/*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
+
