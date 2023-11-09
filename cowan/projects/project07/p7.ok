@@ -1,0 +1,17 @@
+{
+  "name": "Project 7",
+  "endpoint": "rhodes/cs141-cowan/fa23/project07",
+  "src": [
+    "P7.ipynb",
+    "draw.py",
+    "picture_submit.txt"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
