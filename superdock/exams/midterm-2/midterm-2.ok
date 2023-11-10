@@ -1,0 +1,16 @@
+{
+  "name": "Midterm 2",
+  "endpoint": "rhodes/cs141-superdock/fa23/midterm2",
+  "src": [
+    "midterm-2.ipynb"
+  ],
+  "tests": {
+      "tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
+
