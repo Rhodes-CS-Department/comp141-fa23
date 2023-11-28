@@ -3,7 +3,7 @@
   "endpoint": "rhodes/cs141-superdock/fa23/project8",
   "src": [
     "project-8.ipynb",
-    "draw.py"
+    "imgfilter.py"
   ],
   "tests": {
       "tests/*.py": "ok_test"
